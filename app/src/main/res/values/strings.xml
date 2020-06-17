@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyLocation</string>
+    <string name="facebook_app_id">506464283208293</string>
+    <string name="fb_login_protocol_scheme">fb506464283208293</string>
+    <string name="MY_IP_API_LOCATION_KEY">3a80660b0222fd03253f97a1ecfa0f97</string>
+</resources>
